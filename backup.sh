@@ -1,5 +1,7 @@
 #!/bin/sh
-
+echo "*******************************"
+echo "*     Linux Backup Script      *"
+echo "*******************************"
 echo "Script for Backing up"
 SOURCE="$1"
 BACKUP_DIR="$2"
